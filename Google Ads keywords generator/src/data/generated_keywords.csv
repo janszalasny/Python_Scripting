@@ -1,0 +1,55 @@
+keyword,match_type
+buy digital camera,Broad
+buy dslr camera,Broad
+buy mirrorless camera,Broad
+best digital camera,Broad
+best dslr camera,Broad
+best mirrorless camera,Broad
+cheap digital camera,Broad
+cheap dslr camera,Broad
+cheap mirrorless camera,Broad
+for sale digital camera,Broad
+for sale dslr camera,Broad
+for sale mirrorless camera,Broad
+review digital camera,Broad
+review dslr camera,Broad
+review mirrorless camera,Broad
+"""buy digital camera""",Phrase
+"""buy dslr camera""",Phrase
+"""buy mirrorless camera""",Phrase
+"""best digital camera""",Phrase
+"""best dslr camera""",Phrase
+"""best mirrorless camera""",Phrase
+"""cheap digital camera""",Phrase
+"""cheap dslr camera""",Phrase
+"""cheap mirrorless camera""",Phrase
+"""for sale digital camera""",Phrase
+"""for sale dslr camera""",Phrase
+"""for sale mirrorless camera""",Phrase
+"""review digital camera""",Phrase
+"""review dslr camera""",Phrase
+"""review mirrorless camera""",Phrase
+[buy digital camera],Exact
+[buy dslr camera],Exact
+[buy mirrorless camera],Exact
+[best digital camera],Exact
+[best dslr camera],Exact
+[best mirrorless camera],Exact
+[cheap digital camera],Exact
+[cheap dslr camera],Exact
+[cheap mirrorless camera],Exact
+[for sale digital camera],Exact
+[for sale dslr camera],Exact
+[for sale mirrorless camera],Exact
+[review digital camera],Exact
+[review dslr camera],Exact
+[review mirrorless camera],Exact
+deals 4k tv,Broad
+deals led tv,Broad
+deals smart tv,Broad
+offers 4k tv,Broad
+offers led tv,Broad
+offers smart tv,Broad
+discount 4k tv,Broad
+discount led tv,Broad
+discount smart tv,Broad
