@@ -196,3 +196,4 @@ Running a GUI application in Docker requires forwarding the host's display serve
 
 
 <img width="1194" height="790" alt="Image" src="https://github.com/user-attachments/assets/9e2052f7-8abb-4269-975f-49a7e15dc80f" />
+
