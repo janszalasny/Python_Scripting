@@ -36,23 +36,6 @@ This project intentionally incorporates several software design patterns to ensu
 - **Implementation:**  
   - **Subject:** The Backtester acts as the subject. As it iterates through historical data, it notifies its observers of new price updates.  
   - **Observer:** The Portfolio acts as an observer. It registers with the backtester and implements an `update_portfolio_value` method, which is called by the subject on each tick. This decouples the portfolio's state management from the core backtesting loop.
-# Folder Structure
-The project is organized into a modular structure to promote separation of concerns:
-
-.
-├── data/
-│ └── data_handler.py # Handles fetching and preparing market data
-├── execution/
-│ └── backtester.py # The core event-driven backtesting engine
-├── portfolio/
-│ └── portfolio.py # Manages portfolio state (cash, holdings, value)
-├── strategy/
-│ └── strategies.py # Implements the Strategy design pattern
-├── visualization/
-│ └── visualizer.py # Handles plotting and results visualization
-├── main.py # Main entry point to run the simulation
-├── requirements.txt # Project dependencies
-└── Dockerfile # Docker configuration
 
 # Setup and Installation
 
