@@ -37,7 +37,7 @@ This project intentionally incorporates several software design patterns to ensu
   - **Subject:** The Backtester acts as the subject. As it iterates through historical data, it notifies its observers of new price updates.  
   - **Observer:** The Portfolio acts as an observer. It registers with the backtester and implements an `update_portfolio_value` method, which is called by the subject on each tick. This decouples the portfolio's state management from the core backtesting loop.
 
-# Setup and Installation
+## Setup and Installation
 
 * **Clone the Repository**  
 `git clone https://github.com/your-username/algorithmic-trading-simulator.git`  
@@ -50,7 +50,7 @@ This project intentionally incorporates several software design patterns to ensu
 * **Install Dependencies**  
 `pip install -r requirements.txt`
 
-# Usage
+## Usage
 
 * To run the simulation, execute:  
 `python main.py`
@@ -69,7 +69,7 @@ This project intentionally incorporates several software design patterns to ensu
 
 *Note:* Running Matplotlib in Docker may require extra configuration for GUI display. For headless environments or CI/CD, modify the visualizer to save plots to a file instead of displaying them.
 
-# Future Improvements
+## Future Improvements
 
 * **Add More Strategies:** Implement other trading strategies like RSI, Bollinger Bands, or Momentum.  
 * **Support for Multiple Assets:** Enable trading multiple symbols simultaneously.  
