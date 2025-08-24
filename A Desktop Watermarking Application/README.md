@@ -193,3 +193,6 @@ Running a GUI application in Docker requires forwarding the host's display serve
         # Then, run the container:
         docker run --rm -it -e DISPLAY=host.docker.internal:0.0 aquamark-app
         ```
+
+
+<img width="1194" height="790" alt="Image" src="https://github.com/user-attachments/assets/9e2052f7-8abb-4269-975f-49a7e15dc80f" />
