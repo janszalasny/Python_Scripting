@@ -1,0 +1,124 @@
+{
+  "intents": [
+    {
+      "tag": "greeting",
+      "patterns": ["Hi", "Hello", "Hey", "How are you", "What's up"],
+      "responses": ["Hello!", "Hi there!", "Hey!", "Hi, want to learn about Polish football history?"]
+    },
+    {
+      "tag": "goodbye",
+      "patterns": ["Bye", "See you later", "Goodbye", "Have a good day"],
+      "responses": ["Goodbye!", "See you later!", "Enjoy your football history journey!"]
+    },
+    {
+      "tag": "thanks",
+      "patterns": ["Thanks", "Thank you", "That's helpful"],
+      "responses": ["You're welcome!", "No problem!", "Glad I could help!"]
+    },
+    {
+      "tag": "early_history",
+      "patterns": ["When did football start in Poland?", "Early Polish football", "History of football in Poland"],
+      "responses": ["Football in Poland started in the late 19th century. The first clubs were formed in cities like Krakow and Lwów around 1894-1906."]
+    },
+    {
+      "tag": "national_team",
+      "patterns": ["Tell me about the Polish national team", "History of Poland national football team", "Poland football team"],
+      "responses": ["The Polish national football team played its first official match in 1921 against Hungary. They have participated in several World Cups and European Championships, with notable success in 1974 and 1982 World Cups."]
+    },
+    {
+      "tag": "famous_players",
+      "patterns": ["Famous Polish football players", "Legendary Polish footballers", "Best Polish players"],
+      "responses": ["Some of the most famous Polish players include: Zbigniew Boniek, Robert Lewandowski, Grzegorz Lato, Kazimierz Deyna, and Jakub Błaszczykowski."]
+    },
+    {
+      "tag": "greatest_moments",
+      "patterns": ["Polish football greatest moments", "Historic wins of Poland", "Best achievements of Polish football"],
+      "responses": ["Poland's greatest football moments include finishing 3rd in the 1974 and 1982 World Cups, winning gold at the 1972 Olympics, and reaching the quarter-finals in UEFA Euro 2016."]
+    },
+    {
+      "tag": "clubs",
+      "patterns": ["Famous Polish football clubs", "Best football clubs in Poland", "Polish league teams"],
+      "responses": ["Some of the most successful clubs in Poland include Legia Warsaw, Wisła Kraków, Lech Poznań, Górnik Zabrze, and Śląsk Wrocław."]
+    },
+    {
+      "tag": "domestic_league",
+      "patterns": ["Polish domestic football league", "History of Ekstraklasa", "Polish league history"],
+      "responses": ["The top Polish football league is called Ekstraklasa, founded in 1927. It has undergone many changes but remains the premier football competition in Poland."]
+    },
+    {
+      "tag": "recent_success",
+      "patterns": ["Recent success of Poland football", "Poland football achievements", "Latest news in Polish football"],
+      "responses": ["Recently, the Polish national team has been performing well in qualifiers and tournaments, with Robert Lewandowski leading the team and several young talents emerging in top European leagues."]
+    },
+    {
+      "tag": "world_cup_history",
+      "patterns": ["Poland in World Cup", "World Cup history Poland", "Polish team World Cup performance"],
+      "responses": ["Poland participated in their first FIFA World Cup in 1938. Their best results were 3rd place in 1974 and 1982 tournaments, with Grzegorz Lato being the top scorer in 1974."]
+    },
+    {
+      "tag": "olympics_history",
+      "patterns": ["Polish football in Olympics", "Olympic gold Poland football", "Poland football Olympic history"],
+      "responses": ["Poland won the Olympic gold medal in football at the 1972 Munich Olympics and a silver medal at the 1976 Montreal Olympics."]
+    },
+    {
+      "tag": "youth_football",
+      "patterns": ["Polish youth football history", "Junior football in Poland", "Under-21 Poland football"],
+      "responses": ["Polish youth football has been strong historically, with Poland U-21 reaching the finals of the UEFA European Under-21 Championship in 1994. The youth system helped develop players like Lewandowski and Błaszczykowski."]
+    },
+    {
+      "tag": "rivalries",
+      "patterns": ["Polish football rivalries", "Biggest football derbies in Poland", "Poland football rivalry matches"],
+      "responses": ["Some of the biggest football rivalries in Poland are: Legia Warsaw vs Wisła Kraków, Lech Poznań vs Legia Warsaw, and local city derbies like Górnik Zabrze vs Ruch Chorzów."]
+    },
+    {
+      "tag": "famous_coaches",
+      "patterns": ["Famous Polish football coaches", "Legendary Poland coaches", "Poland football managers"],
+      "responses": ["Notable Polish football coaches include Kazimierz Górski, who led Poland to the 1974 World Cup 3rd place, and Jerzy Engel, who qualified Poland for Euro 2008."]
+    },
+    {
+      "tag": "world_cup_1974",
+      "patterns": ["Poland 1974 World Cup", "1974 FIFA World Cup Poland", "1974 World Cup highlights"],
+      "responses": ["In the 1974 World Cup, Poland finished 3rd, defeating Brazil 1-0 in the third-place match. Grzegorz Lato was the tournament's top scorer with 7 goals."]
+    },
+    {
+      "tag": "world_cup_1982",
+      "patterns": ["Poland 1982 World Cup", "1982 FIFA World Cup Poland", "1982 World Cup highlights"],
+      "responses": ["Poland finished 3rd again in 1982, beating France 3-2 in the third-place match. Zbigniew Boniek was one of the standout players of the tournament."]
+    },
+    {
+      "tag": "euro_participation",
+      "patterns": ["Poland in European Championship", "Euro history Poland", "Poland Euro performance"],
+      "responses": ["Poland has participated in the UEFA European Championship several times, reaching the quarter-finals in Euro 2016, their best performance in the tournament's history."]
+    },
+    {
+      "tag": "domestic_cups",
+      "patterns": ["Polish domestic football cups", "History of Polish Cup", "Polish Cup winners"],
+      "responses": ["The Polish Cup (Puchar Polski) is a national knockout competition. Clubs like Legia Warsaw, Lech Poznań, and Wisła Kraków have won it multiple times."]
+    },
+    {
+      "tag": "women_national_team",
+      "patterns": ["Poland women's national team", "History of Polish women's football team", "Women's football Poland"],
+      "responses": ["The Poland women's national football team played its first official match in 1981. They have been competing in UEFA Women's Championship and FIFA Women's World Cup qualifiers, gradually improving over the years."]
+    },
+    {
+      "tag": "women_famous_players",
+      "patterns": ["Famous Polish female footballers", "Best women football players Poland", "Legendary Polish women players"],
+      "responses": ["Some notable Polish female footballers include Ewa Pajor, Katarzyna Kiedrzynek, and Patrycja Balcerzak, who have represented Poland in international competitions."]
+    },
+    {
+      "tag": "women_clubs",
+      "patterns": ["Top women's football clubs in Poland", "Polish women's league clubs", "Women's Ekstraliga Poland"],
+      "responses": ["The top women's football league in Poland is Ekstraliga kobiet. Prominent clubs include Górnik Łęczna, Czarni Sosnowiec, Medyk Konin, and AP Lotos Gdańsk."]
+    },
+    {
+      "tag": "women_league_history",
+      "patterns": ["History of women's football league Poland", "Women's Ekstraliga history", "Polish women's domestic league"],
+      "responses": ["The Polish women's football league, Ekstraliga kobiet, was founded in 1979. It has grown steadily, producing talented players who compete internationally."]
+    },
+    {
+      "tag": "women_achievements",
+      "patterns": ["Achievements of Polish women's football", "Poland women's football history", "Polish women's football successes"],
+      "responses": ["Polish women's football achievements include multiple Ekstraliga titles for clubs like Czarni Sosnowiec and Górnik Łęczna, as well as consistent participation in UEFA Women's Champions League qualifiers."]
+    }
+  ]
+}
